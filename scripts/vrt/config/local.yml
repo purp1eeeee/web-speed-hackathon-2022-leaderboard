@@ -10,7 +10,7 @@ pages:
   - name: オッズ - 締め切り前
     path: /races/99f2bca1-e909-4b1b-8f86-1b842b823b1c/odds
   - name: オッズ - 締め切り後
-    path: /races/5cbce9e9-ccf0-4272-a831-8a17ad96fe47/race-card
+    path: /races/5cbce9e9-ccf0-4272-a831-8a17ad96fe47/odds
   - name: 結果
     path: /races/99f2bca1-e909-4b1b-8f86-1b842b823b1c/result
 viewports:
